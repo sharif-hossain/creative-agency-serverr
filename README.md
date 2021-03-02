@@ -7,10 +7,10 @@ Creative Agency is a e-commerce development service website where a customer can
 ## Key Features :
 ### Client Side :
 1.Order for a creative design
-1.Can uplolad image for detail information
-1. Give a review or feedback
+2.Can uplolad image for detail information
+3. Give a review or feedback
 ## Admin Side :
 1. Add a service
-1.Check all ordered service
-1. Delete a service
+2.Check all ordered service
+3. Delete a service
 ### Live site link : https://creativeagencyrecap.web.app/
